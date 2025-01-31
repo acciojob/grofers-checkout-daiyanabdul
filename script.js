@@ -1,4 +1,4 @@
-onst getSumBtn = document.createElement("button");
+const getSumBtn = document.createElement("button");
 getSumBtn.append("Get Total Price");
 document.body.appendChild(getSumBtn);
 
